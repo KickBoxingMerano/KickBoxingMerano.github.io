@@ -1152,7 +1152,7 @@ svg:not(:root) {
 =========================================================*/
 header {
   background: #fff;
-  padding-top: 55px;
+  padding-top: 18px;
   position: relative;
 }
 header .camera_container + .stuck_container {
