@@ -343,6 +343,7 @@ svg:not(:root) {
   display: inline-block;
   position: relative;
   padding-left: 180px;
+  padding-bottom: 40px;
 }
 .brand:before {
   content: '';
