@@ -342,7 +342,7 @@ svg:not(:root) {
 .brand {
   display: inline-block;
   position: relative;
-  padding-left: 180px;
+  padding-left: 220px;
   padding-bottom: 40px;
 }
 .brand:before {
