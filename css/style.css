@@ -350,8 +350,8 @@ svg:not(:root) {
   top: 5px;
   left: 0;
   background: url("../images/logo.png") no-repeat;
-  height: 60px;
-  width: 100px;
+  height: 105px;
+  width: 170px;
 }
 .brand_slogan {
   color: #555555;
