@@ -21,6 +21,12 @@ h1, h2, h3, h4, h5, h6, .terms-list dt {
   color: #010101;
 }
 
+h1plus {
+  font-size: 32px;
+  line-height: 36px;
+  letter-spacing: 2.4px;
+}
+
 h1 {
   font-size: 24px;
   line-height: 33px;
@@ -342,7 +348,7 @@ svg:not(:root) {
 .brand {
   display: inline-block;
   position: relative;
-  padding-left: 220px;
+  padding-left: 250px;
   padding-bottom: 40px;
 }
 .brand:before {
