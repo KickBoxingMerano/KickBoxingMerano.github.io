@@ -78,6 +78,20 @@ time {
   color: #fff;
 }
 
+
+timelarge {
+  display: block;
+  padding-top: 10px;
+  width: 220px;
+  height: 44px;
+  background: #010101;
+  font-size: 14px;
+  line-height: 28px;
+  letter-spacing: 1.4px;
+  font-weight: 700;
+  color: #fff;
+}
+
 a {
   font: inherit;
   color: inherit;
